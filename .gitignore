@@ -1,0 +1,18 @@
+# Environnement virtuel
+env/
+.venv/
+
+# Données
+data/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Logs
+*.log
