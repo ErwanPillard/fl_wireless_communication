@@ -1,6 +1,6 @@
 #!/bin/bash
 
-N_CLIENTS=3
+N_CLIENTS=2
 
 source env/bin/activate
 
